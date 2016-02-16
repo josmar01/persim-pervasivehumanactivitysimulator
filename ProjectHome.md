@@ -1,0 +1,1 @@
+Persim, which is in development at the Pervasive Computing Lab at the University of Florida, is a simulator to simulate human activities in pervasive environments. This is the repository for dataset and project files used in Persim. All files are open and shared, and someone who wants to contribute can contact us the project manager or project staff.
